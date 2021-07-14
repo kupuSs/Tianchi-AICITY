@@ -3,7 +3,7 @@ solution implement(之后会上传代码).<br>
 
 #### 队伍名称
 没有妹子的队很火<br>
-kupuV, 皇马战斗机, JLTXHJL<br>
+kupu, 皇马战斗机, JLTXHJL<br>
 - 初赛 18/2319
 - 复赛 12/2319
 - 决赛 10/2319
